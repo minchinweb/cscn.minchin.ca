@@ -3,7 +3,7 @@ name: Publish CSCN.Minchin.ca website
 on:
   push:
     branches:
-      - pelican
+      - master
   workflow_dispatch:
 
 jobs:
