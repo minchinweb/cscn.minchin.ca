@@ -1,0 +1,17 @@
+invoke >= 0.20.2
+markdown
+minchin.pelican.plugins.autoloader
+minchin.pelican.plugins.cname >= 1.2.0
+minchin.pelican.plugins.nojekyll
+minchin.pelican.plugins.optimize_images
+pelican >= 3.7
+pelican-extended-sitemap
+# pelican-minify  # causes issues with jquery
+pip-tools
+seafoam >= 2.4.1
+typogrify
+html5lib
+
+# sub-dependencies; minimums for security
+pillow >= 10.0.1
+jinja2 >= 3.1.3
