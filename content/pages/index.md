@@ -44,7 +44,7 @@ francophones à Edmonton.
 
 ---
 
-*For Our Children*
+## For Our Children
 
 Hello! My name is William Minchin and am delighted to announce my candidacy for
 school councilor for the Greater North Central Francophone School Board
@@ -77,3 +77,9 @@ I've been doing these last many years.
 
 This coming October 20, vote for me, William Minchin, to strengthen our
 francophone schools in Edmonton!
+
+---
+
+Vous pouvez me contacter à [cscn@minchin.ca](mailto:cscn@minchin.ca)
+
+You can reach me by email at [cscn@minchin.ca](mailto:cscn@minchin.ca)
