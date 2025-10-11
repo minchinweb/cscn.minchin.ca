@@ -1,13 +1,12 @@
-title: Pour Nos Enfants
-subtitle: William Minchin pour Conseil scolaire Centre-Nord
+title: William Minchin pour Conseil scolaire Centre-Nord
 icon: fa fa-school
-modified: 2025-10-07
+modified: 2025-10-11
 image: images/IMG_4729-cropped.JPG
 save_as: index.html
+slug:
 
-<!--
-*Pour Nos Enfants*
--->
+
+## Pour Nos Enfants
 
 Bonjour! Je suis William Minchin et je suis bien content de me présenter comme
 conseiller public pour Edmonton pour les élections du Conseil scolaire
@@ -41,6 +40,13 @@ exactement ce processus que je faisais ces dernieres années.
 
 Le 20 octobre, votez pour moi, William Minchin, afin de fortifier les écoles
 francophones à Edmonton.
+
+<div style="position: relative; height: 0; overflow: hidden; padding-bottom: 56.25%; /* 16/9 ratio */ border-style: none;">
+    <iframe
+        style="position: absolute; top:0; left: 0; width: 100%; height: 100%;"
+        src="https://www.youtube-nocookie.com/embed/mTvHwrDfE4o?modestbranding=1">
+    </iframe>
+</div>
 
 ---
 
@@ -78,7 +84,29 @@ I've been doing these last many years.
 This coming October 20, vote for me, William Minchin, to strengthen our
 francophone schools in Edmonton!
 
+
 ---
+
+## Où (et Quand) Voter
+
+L'élection se dérouleras **lundi, le 20 octobre 2025**, en même temps que les
+élections municipaux. Pour voter, vous pouvez se présenter à **n'importe quelle
+école de Centre Nord** (sauf École Jean-Claude-Mahé), même en dehors
+d'Edmonton. Les bureaux seront ouverts de **10 h à 20 h**.
+
+---
+
+## Voting -- When and Where
+
+The election will happen on **Monday, October 20, 2025**, at the same time as
+the municipal elections. To vote, you can **go to any of Centre Nord's
+schools** (except École Jean-Claude-Mahé), including those outside of Edmonton.
+The voting stations will be open from **10am to 8pm**.
+
+
+---
+
+## Me Contacter / To Reach Me
 
 Vous pouvez me contacter à [cscn@minchin.ca](mailto:cscn@minchin.ca)
 
