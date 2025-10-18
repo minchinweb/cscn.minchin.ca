@@ -1,6 +1,6 @@
 title: William Minchin pour Conseil scolaire Centre-Nord
 icon: fa fa-school
-modified: 2025-10-11
+modified: 2025-10-18 9:27
 image: images/IMG_4729-cropped.JPG
 save_as: index.html
 slug:
@@ -26,7 +26,7 @@ cause de la grève actuel des enseignants. Nous avons besoin de plus
 d’enseignants francophones et plus de bâtiments (des écoles) pour nos
 étudiants. Les étudiants francophones sont un peu partout et nous avons besoin
 d'écoles plus près de nos enfants. Même à Edmonton, ainsi qu'en provence.
-Aussi, nous perdons trops de nous élèves advancés parce qu'ils ne sont pas
+Aussi, nous perdons trop de nos élèves avancés parce qu'ils ne sont pas
 rassurés qu'ils recevront la meilleure éducation dans nos écoles secondaire.
 
 Mais moi, je peux aider! Dernièrement, j'ai travaillé en faisant des démarches
